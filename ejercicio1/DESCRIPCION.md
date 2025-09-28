@@ -2,7 +2,7 @@
 
 Encuentre el algoritmo para calcular el término 10 de la secuencia de Fibonacci. Recuerde que los dos primeros números de la serie son 0 y 1. El resto se calcula con la suma de los dos números inmediatos que le preceden.
 
-Lectura 1: Análisis
+**LECTURA 1**: Análisis
 
 Encontrar el décimo término de la secuencia.
 
@@ -20,12 +20,12 @@ De tal modo que:
 * g + h = i   —> 8 + 13 = 21
 * h + i = j  —> 13 + 21 = 34
 
-Lectura 2: Entradas
+**LECTURA 2**: Entradas
 
 * a = 0 : Entero
 * b = 1 : Entero
 
-Lectura 3: Salidas
+**LECTURA 3**: Salidas
 
 * c, d, e, f, g, h, i : Entero  //No se mostrarán
 * Décimo número de Fibonacci -> j : Entero
