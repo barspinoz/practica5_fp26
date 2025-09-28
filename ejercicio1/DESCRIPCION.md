@@ -40,18 +40,31 @@ De tal modo que:
 ---
 
 `INICIO.  Algoritmo Fibonacci`
+
 `  /*Variables de entrada*/`
+
 `  a=0`
+
 `  b=1`
+
 `  n=7`
+
 `  /*Variables de salida*/`
+
 `  actual:REAL`
+
 `  PARA i=0 HASTA =<7 PASO i++ HACER`
+
 `    actual=b+a`
+
 `    a=b`
+
 `    b=actual`
+
 `    IMPRIMIR “El término enésimo de Fibonacci es:” actual`
+
 `  FIN PARA`
+
 `FIN`
 
 ---
