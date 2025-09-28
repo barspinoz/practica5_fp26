@@ -39,7 +39,7 @@ De tal modo que:
 
 ---
 
-INICIO.      Algoritmo Fibonacci 
+`INICIO.      Algoritmo Fibonacci 
   /*Variables de entrada*/
   a=0
   b=1
@@ -52,6 +52,6 @@ INICIO.      Algoritmo Fibonacci
     b=actual 
     IMPRIMIR “El término enésimo de Fibonacci es =”actual 
   FIN PARA 
-FIN
+FIN`
 
 ---
