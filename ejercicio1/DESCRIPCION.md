@@ -4,30 +4,31 @@ Encuentre el algoritmo para calcular el término 10 de la secuencia de Fibonacci
 
 Lectura 1: Análisis
 
-Encontrar el décimo término de la secuencia
+Encontrar el décimo término de la secuencia.
+
 Cada valor obtenido en la secuencia es la sumatoria del anterior y penúltimo número:
-a(1), b(2), c(3),... d, e, f, g, h, i,... j(10)
+* a(1), b(2), c(3),... d, e, f, g, h, i,... j(10)
+
 Sólo se pide el décimo término de la secuencia, a su vez las entradas son constantes también.
 De tal modo que:
-a + b = c   —> 0 + 1 = 1
-b + c = d  —> 1 + 1 = 2
-c+ d = e  —> 1 + 2 = 3
-d + e = f  —> 2 + 3 = 5
-e + f = g  —> 3 + 5 = 8
-f + g = h  —> 5 + 8 = 13
-g + h = i   —> 8 + 13 = 21
-h + i = j  —> 13 + 21 = 34
+* a + b = c   —> 0 + 1 = 1
+* b + c = d  —> 1 + 1 = 2
+* c + d = e  —> 1 + 2 = 3
+* d + e = f  —> 2 + 3 = 5
+* e + f = g  —> 3 + 5 = 8
+* f + g = h  —> 5 + 8 = 13
+* g + h = i   —> 8 + 13 = 21
+* h + i = j  —> 13 + 21 = 34
 
 Lectura 2: Entradas
 
-a = 0 : Entero
-b = 1 : Entero
-
+* a = 0 : Entero
+* b = 1 : Entero
 
 Lectura 3: Salidas
 
-c, d, e, f, g, h, i : Entero  //No se mostrarán
-Décimo número de Fibonacci -> j : Entero
-j = 34
+* c, d, e, f, g, h, i : Entero  //No se mostrarán
+* Décimo número de Fibonacci -> j : Entero
+* j = 34
 
 ## DIAGRAMA DE FLUJO
