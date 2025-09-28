@@ -33,22 +33,35 @@ De tal modo que:
 
 ## DIAGRAMA DE FLUJO
 
-![DIAGRAMA DEL EJERCICIO 1](/practica5_fp26/ejercicio1/EJERCICIO1-PRACTICA5-FP-2026-1.drawio.png)
+![DIAGRAMA DEL EJERCICIO 1](/ejercicio1/EJERCICIO1-PRACTICA5-FP-2026-1.drawio.png)
 
 ## PSEUDOCÓDIGO
 
 INICIO.              Algoritmo de Fibonacci 
+
           /*Variables de entrada*/
+          
           a=0
+          
           b=1
+          
           n=7
+          
           /*Variables de salida*/
+         
          actual:REAL
+         
          PARA i=0      HASTA  =<7    PASO i++  HACER
+         
                      actual=b+a
+                     
                      a=b
+                     
                      b=actual 
+                     
                      IMPRIMIR “El término enésimo de Fibonacci es =”actual 
+         
          FIN PARA 
+         
 FIN
 
