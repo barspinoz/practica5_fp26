@@ -14,7 +14,7 @@ int main() {
         suma += pow(-1, i) / i;
     }
 
-    printf("\nLa sumatoria es: %f\n", suma);
+    printf("\n La sumatoria es: %f \n", suma);
 
     return 0;
 }
