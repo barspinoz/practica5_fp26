@@ -1,4 +1,4 @@
-## EJERCICIO 3
+## EJERCICIO 4
 
 Desarrollar el diagrama de flujo que permita realizar la sumatoria desde n=1 hasta N, donde N es el valor máximo que puede alcanzar la sumatoria.
 
