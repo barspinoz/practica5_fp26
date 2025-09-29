@@ -15,35 +15,49 @@ En un estadio se tienen 5 diferentes localidades, las cuales se identifican por 
 + P5 → Precio boleto 5
 
 Encuentre el algoritmo que:
-a.​ Lea los precios.
-b. Lea los datos de las ventas.
-c. Imprima para cada venta, la clave, la cantidad y el importe de los boletos vendidos en esta venta.
-d. Calcule e imprima la cantidad de boletos vendidos de cada tipo.
-e. Calcule e imprima la recaudación total del estadio.
+1.​ Lea los precios.
+2. Lea los datos de las ventas.
+3. Imprima para cada venta, la clave, la cantidad y el importe de los boletos vendidos en esta venta.
+4. Calcule e imprima la cantidad de boletos vendidos de cada tipo.
+5. Calcule e imprima la recaudación total del estadio.
 
 **LECTURA 1**: Análisis
 
-* La sumatoria va desde n = 1 hasta N.
-*​ N es el valor máximo.
-* Se necesitan dos variables: el valor de N y la operación.
+* Calcular la cantidad de boletos vendidos de cada tipo.
+* Calcular la recaudación total del estadio.
+* Se le pedirá al usuario el precio del boleto para poder calcular su cantidad, importe y clave.
+* Se hará el cálculo de cuántos boletos fueron vendidos de un tipo.
+* La suma de la cantidad de dinero recaudado de boletos vendidos de cada tipo es igual a la recaudación total del estadio.
 
 **LECTURA 2**: Entradas
 
-* N: Entero
++ Clave;1-5
++ Importe;
++ Cantidad;
++ P 1;
++ P 2;
++ P 3;
++ P 4;
++ P 5;
++ Cantidad de boletos vendidos;
 
 **LECTURA 3**: Salidas
 
-* suma: Entero
+* **Para cada venta**
+* Clave, cantidad e importe de boletos vendidos en esa venta.
+* **Totales**
+* Cantidad de boletos vendidos de cada tipo.
+* Recaudación total del estadio.
 
 
 ## DIAGRAMA DE FLUJO
 
-![DIAGRAMA DEL EJERCICIO 4](/ejercicio4/EJERCICIO4-PRACTICA5-FP-2026-1.drawio.png)
+![DIAGRAMA DEL EJERCICIO 2](/ejercicio2/EJERCICIO2-PRACTICA5-FP-2026-1.drawio.png)
 
 ## PSEUDOCÓDIGO
 
 ---
 
-![PSEUDOCÓDIGO DEL EJERCICIO 4](/ejercicio4/EJERCICIO4-PRACTICA5-FP-2026-1.pseudo.png)
+![PSEUDOCÓDIGO DEL EJERCICIO 2](/ejercicio2/EJERCICIO2-PRACTICA5-FP-2026-1.pseudo.png)
 
 ---
