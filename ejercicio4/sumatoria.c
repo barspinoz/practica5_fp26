@@ -1,24 +1,20 @@
 #include <stdio.h>
 #include <math.h>
+
 int main() {
-	float N = 0; //numero maximo
-	float n = 1; //entrada
-	float suma = 0; //salida
-	float termino = 0; //intermedia
-	
-	/*leer valores*/
-	printf("\n Ingrese un valor maximo N: \n \t");
-	scanf("%f",&N);
-	printf("\n Ingrese un valor n: \n \t");
-	scanf("%f", &n);
-	
-	/*calculo*/
-	if(n <= N) {
-		termino = (pow(-1, n)/(n));
-		suma = suma + termino;
-		n = n++;
-	}
-	
-	printf("\n La sumatoria es: %f \n", &suma);
-	return 0;
+    double N;        // número máximo
+    double suma = 0; // salida
+
+    // Leer valor
+    printf("\nIngrese un valor maximo N: ");
+    scanf("%lf", &N);
+
+    // Calculo de la sumatoria
+    for (int i = 1; i <= N; i++) {
+        suma += pow(-1, i) / i;
+    }
+
+    printf("\nLa sumatoria es: %f\n", suma);
+
+    return 0;
 }
