@@ -6,6 +6,6 @@ Brigada 6
 
 **Integrantes:**
 + Espinosa Salvador Roman.
-+​ Maldonado Martínez Erik Fernando.
++ Maldonado Martínez Erik Fernando.
 + Porto Rayón Emanuel.
 + Zaragoza Ruiz Santiago Luca.
