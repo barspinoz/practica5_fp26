@@ -1,6 +1,18 @@
-## EJERCICIO 4
+## EJERCICIO 2
 
-Desarrollar el diagrama de flujo que permita realizar la sumatoria desde n=1 hasta N, donde N es el valor máximo que puede alcanzar la sumatoria.
+En un estadio se tienen 5 diferentes localidades, las cuales se identifican por una clave numérica que es el valor comprendido entre 1 y 5. Los precios de cada localidad y los datos referentes a las ventas de boletos para el próximo juego son:
+
+* Clave 1 → Boleto 1​
+* Clave 2 → Boleto 2
+* ​Clave 3 → Boleto 3
+* ​Clave 4 → Boleto 4
+* ​Clave 5 → Boleto 5
+
++ P1 → Precio boleto 1
++ P2 → Precio boleto 2
++ P3 → Precio boleto 3
++ P4 → Precio boleto 4
++ P5 → Precio boleto 5
 
 ![SUMATORIA](/ejercicio4/SUMATORIA.png)
 
