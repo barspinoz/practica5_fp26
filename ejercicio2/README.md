@@ -58,6 +58,7 @@ Encuentre el algoritmo que:
 
 ---
 
-![PSEUDOCÓDIGO DEL EJERCICIO 2](/ejercicio2/EJERCICIO2-PRACTICA5-FP-2026-1.pseudo.png)
+![PSEUDOCÓDIGO DEL EJERCICIO 2 (parte 1)](/ejercicio2/EJERCICIO2-PRACTICA5-FP-2026-1.pseudo1.png)
+![PSEUDOCÓDIGO DEL EJERCICIO 2 (parte 2)](/ejercicio2/EJERCICIO2-PRACTICA5-FP-2026-1.pseudo2.png)
 
 ---
