@@ -31,7 +31,7 @@ Encuentre el algoritmo que:
 
 **LECTURA 2**: Entradas
 
-+ Clave;1-5
++ Clave; 1-5
 + Importe;
 + Cantidad;
 + P 1;
