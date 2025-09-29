@@ -14,6 +14,13 @@ En un estadio se tienen 5 diferentes localidades, las cuales se identifican por 
 + P4 → Precio boleto 4
 + P5 → Precio boleto 5
 
+Encuentre el algoritmo que:
+a)​ Lea los precios.
+b)​ Lea los datos de las ventas.
+c)​ Imprima para cada venta, la clave, la cantidad y el importe de los boletos vendidos en esta venta.
+d)​ Calcule e imprima la cantidad de boletos vendidos de cada tipo.
+e)​ Calcule e imprima la recaudación total del estadio.
+
 ![SUMATORIA](/ejercicio4/SUMATORIA.png)
 
 **LECTURA 1**: Análisis
